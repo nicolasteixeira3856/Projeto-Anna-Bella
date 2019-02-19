@@ -1,0 +1,33 @@
+body{
+    background: white url("../img/fundo.png");
+    /* Não defini mais nada pois o default já é repeat */
+    font: 16px Arial, Helvetica, sans-serif;
+}
+h1{
+    color: #888844;
+}
+a {
+	color: #4b566a;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+#principal {
+	width: 900px;
+}
+#menu {
+	background: #c5c5b2;
+	padding: 18px;
+}
+#conteudo{
+    background-color: #e0e0d1;
+    padding: 18px;
+}
+#rodape{
+    text-align:center;
+    background-color: #c3c388;
+    padding: 20px;
+}
+.img{
+    border: 5px solid #888844;
+}
